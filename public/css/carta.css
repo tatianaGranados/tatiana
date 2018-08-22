@@ -1,0 +1,35 @@
+            
+
+            
+            .bodyBody {
+                margin: 30px;
+                font-size: 1.1em;
+            }
+            .divHeader {
+                text-align: right;
+                border: 1px solid;
+            }
+            .divReturnAddress {
+                text-align: left;
+                float: right;
+            }
+            .divName {
+                text-align: left;
+                padding-top: 100px;
+            }
+            .divSaludo {
+                text-align: left;
+                padding-top: 50px;
+            }
+           .divSubject {
+                clear: both;
+                font-weight: bold;
+                padding-top: 50px;
+                text-align: center;
+                
+            }
+            .divAdios {
+                float: center;
+                padding-top: 50px;
+            }
+      

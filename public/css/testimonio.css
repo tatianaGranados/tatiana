@@ -1,0 +1,57 @@
+            
+@page { size:210mm 297mm ;}
+
+.bodyBody {
+    margin: 30px;
+    font-size: 1.1em;
+}
+
+.divHeader {
+    text-align: right;
+    border: 1px solid;
+}
+
+.divReturnAddress {
+    text-align: left;
+    float: right;
+}
+
+.divName {
+    text-align: left;
+    padding-top: 100px;
+}
+
+.divSaludo {
+    text-align: left;
+    padding-top: 50px;
+}
+.divSubject {
+    clear: both;
+    font-weight: bold;
+    padding-top: 50px;
+    text-align: center;
+                
+}
+
+.divAdios {
+    float: center;
+    padding-top: 50px;
+}
+
+table{
+    border:0px;
+    border-collapse:collapse;
+    width:100%;
+            }
+
+
+.table-borderless th,
+.table-borderless td,
+.table-borderless thead th,
+.table-borderless tbody + tbody {
+  border: 0;
+}
+.text-center {
+  text-align: center !important;
+}
+      
